@@ -26,7 +26,7 @@ To architect an end-to-end data-driven pipeline that:
 
 ### 1. Data Integration Layer
 * Consolidates discrete schemas including master product specifications, chronological sales histories, and real-time stock balances.
-* Normalizes data entities into a standardized data model known as the **"Golden Dataset"**.
+* Normalizes data entities into a standardized data model .
 
 ### 2. Feature Engineering Engine
 * Computes **7-day and 30-day rolling averages** to map short-term demand shocks against long-term baselines.
