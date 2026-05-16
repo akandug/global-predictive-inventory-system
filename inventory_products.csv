@@ -1,0 +1,9 @@
+product_id,product_name,category,base_price,material,supplier_lead_time_days
+101,Elite Lace Corset,Corsets,85.0,Lace,15
+102,Daily Support Corset,Corsets,60.0,Cotton Blend,12
+201,Latex Extreme Trainer,Latex Waist Trainers,120.0,Latex,20
+202,Active Flex Trainer,Latex Waist Trainers,95.0,Latex/Neoprene,18
+301,Toned Arm Shapers,Arm Shapers,35.0,Spandex,10
+401,High-Waist Thigh Shaper,Thigh Shapers,55.0,Nylon,10
+501,V-Line Face Lifter,Face Shapers,45.0,Silicone,25
+601,Cellulite Massager Pro,Massage Products,150.0,Electronic,30

@@ -1,0 +1,33 @@
+product_id,warehouse_location,current_stock_on_hand,reorder_point,storage_cost_per_unit
+101,Lagos,152,81,2.4
+101,London,156,90,1.69
+101,New York,171,53,1.8
+101,Dubai,358,31,1.94
+102,Lagos,463,67,0.5
+102,London,493,50,1.73
+102,New York,363,51,0.51
+102,Dubai,394,78,1.55
+201,Lagos,219,89,1.23
+201,London,239,91,2.07
+201,New York,100,84,2.47
+201,Dubai,180,80,1.86
+202,Lagos,378,68,0.53
+202,London,138,89,1.63
+202,New York,314,82,0.96
+202,Dubai,141,89,0.74
+301,Lagos,313,76,0.85
+301,London,130,65,0.86
+301,New York,437,31,1.35
+301,Dubai,103,33,0.87
+401,Lagos,240,47,2.05
+401,London,211,91,2.35
+401,New York,400,77,1.15
+401,Dubai,264,91,1.15
+501,Lagos,257,82,1.67
+501,London,266,89,1.59
+501,New York,90,58,2.1
+501,Dubai,114,38,2.04
+601,Lagos,185,92,2.13
+601,London,130,37,1.96
+601,New York,338,34,2.35
+601,Dubai,90,57,2.23
